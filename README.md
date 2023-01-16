@@ -1,3 +1,2 @@
-# Winter_Camp
-
-Repository for Winter Training Codes and Assignements for Respective subjects.
+# Winter-Camp
+College Winter Camp Problems and Projects Done in December 22 - January 23
